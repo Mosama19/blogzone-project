@@ -6,7 +6,7 @@ import Section4 from './sections/section4';
 import Section5 from './sections/section5';
 import Section6 from './sections/section6';
 import Section7 from './sections/section7';
-import './index.css';
+import './sections/index.css';
 
 function Aboutusfile() {
   return (

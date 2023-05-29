@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import img from './assets/blogimage.png'
 import axios from "axios";
-import '../../../node_modules/bootstrap/dist/css/bootstrap.min.css';
+// import '../../../node_modules/bootstrap/dist/css/bootstrap.min.css';
 // const UsersignUp = () => {
 //   const [fulname, setFulname] = useState("");
 //   const [email, setEmail] = useState("");

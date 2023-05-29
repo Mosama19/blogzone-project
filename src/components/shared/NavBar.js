@@ -18,7 +18,7 @@ const NavBar = () => {
                         <li className="hover:underline cursor-pointer"><Link to="/signup">Sign up</Link></li>
                         <li className="hover:underline cursor-pointer"><Link to="/">Home</Link></li>
                         <li className="hover:underline cursor-pointer"><Link to="/blog">Blog</Link></li>
-                        <li className="hover:underline cursor-pointer">About</li>
+                        <li className="hover:underline cursor-pointer"><Link to="/about">About Us</Link></li>
                         <li className="bg-black text-white px-5 py-[1px] border-2 cursor-pointer hover:bg-white hover:text-black hover:border-black">Log in</li>
                     </ul>
                 </div>
