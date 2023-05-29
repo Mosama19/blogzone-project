@@ -1,12 +1,8 @@
-import Home from './components/home/Home';
-import Footer from './components/shared/Footer';
-import NavBar from './components/shared/NavBar';
+import Routing from './components/Route/Routing';
 function App() {
   return (
-    <div className="App box-border">
-      <NavBar />
-      <Home />
-      <Footer />
+    <div>
+      <Routing />
     </div>
   );
 }
