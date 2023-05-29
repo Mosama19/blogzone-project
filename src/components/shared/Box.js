@@ -14,7 +14,7 @@ const Box = (props) => {
                     <div className="mx-3 mt-2 flex justify-between font-medium md:mb-2">
                         <div>{source}</div>
                         <div className='flex cursor-pointer'>
-                            <CiBookmarkPlus size={25}/>
+                            <CiBookmarkPlus size={24}/>
                             <div>Save</div>
                         </div>
                     </div>
